@@ -28,7 +28,7 @@ From predicting student dropout rates to exploring smoking’s impact on health,
 | 🎓 **Student Dropout Prediction** | Built a ML model to predict at-risk students using academic & engagement data | [Repo](https://github.com/SafeerSaidhumuhamed/student_dropout) |
 | 🚬 **Smoking Impact Analysis** | Statistical & predictive analysis on health impacts of smoking | [Repo](https://github.com/SafeerSaidhumuhamed/smoking-impact) |
 | 📝 **Plagiarism Detection Research** | Compared paraphrasing tools vs plagiarism checkers to improve detection systems | [Repo](https://github.com/SafeerSaidhumuhamed/Safeer-s-portfolio) |
-| 🚗 **Driver Drowsiness Detection System** | Built a Python-based ML system that detects driver fatigue from real-time webcam input to improve road safety | [Repo](https://github.com/SafeerSaidhumuhamed/driver-drowsiness-detection) |
+| 🚗 **Driver Drowsiness Detection System** | Built a Python-based ML system that detects driver fatigue from real-time webcam input to improve road safety | [Repo](https://github.com/SafeerSaidhumuhamed/driver_drowsiness) |
 
 ---
 
